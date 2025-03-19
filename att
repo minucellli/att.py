@@ -4,3 +4,5 @@ nome = input("nome: ")
  combate = input("combate: ")
  
  print(f"o herói {nome},tem {idade} anos, e domina o poder da {poder} e estava pronto para enfrentar qualquer {combate} e salvar o mundo, e as pessoas que habitam ele.")
+ print(f"{nome} derrotou a criatura das sombras e trouxe paz ao mundo.")
+ print(f"Com seu poder da {poder} e coragem inabalável, {nome} se tornou uma lenda eterna.")
